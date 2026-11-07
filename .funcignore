@@ -1,0 +1,8 @@
+.venv/
+.git/
+.github/
+.env
+.env.*
+local.settings.json
+__pycache__/
+.python_packages/
